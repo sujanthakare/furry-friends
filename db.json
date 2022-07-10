@@ -1,0 +1,19 @@
+{
+  "kitties": [
+    {
+      "name": "sujan",
+      "dateOfBirth": "2022-07-13",
+      "id": 2
+    },
+    {
+      "name": "adf",
+      "dateOfBirth": "2022-07-06",
+      "id": 3
+    },
+    {
+      "name": "sdfa",
+      "dateOfBirth": "2022-07-11",
+      "id": 4
+    }
+  ]
+}
